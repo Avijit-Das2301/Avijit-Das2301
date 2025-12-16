@@ -12,6 +12,7 @@
 - **Currently:**  
   Full-Stack Developer | Actively building with React, Next.js & Node.js
 - **Experience:**
+  - Quality Assurance Intern @ [FirstEigen](https://firsteigen.com/)
   - Research Intern @ [IIT Jodhpur](https://iitj.ac.in/)
   - Built multiple full-stack projects with MERN stack
 - **Education:**  
@@ -38,8 +39,10 @@
 
 - [Full Stack Blog Application](https://github.com/Avijit-Das2301/my-blog-app.git)  
   Next.js 14, MongoDB, and Tailwind CSS powered blog platform with admin dashboard and sleek, modern UI.
+  
 - [IMU Data Collection App](https://github.com/Avijit-Das2301/Sensor-Data.git)  
   Android application for wearable IMU sensor data collection (Research Project @ IIT Jodhpur).
+  
 - [LeetCode Solutions](https://leetcode.com/u/avijitdas_2301/)  
   Comprehensive collection of 100+ DSA problems solved in Java.
 
