@@ -26,7 +26,7 @@
 ## 🛠️ Top Skills
 
 - **Frontend:** React.js, Next.js, JavaScript, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB, MySQL, Spring
+- **Backend:** Node.js, Express.js, MongoDB, MySQL, Postgres, Spring
 - **Languages:** Java, Python, C++, Kotlin
 - **Tools:** Git, VS Code, Postman, Vercel
 
